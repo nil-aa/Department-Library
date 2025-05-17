@@ -113,6 +113,26 @@ Traditional departmental library systems often struggle with slow searches, manu
 
 ---
 
+## Screenshots
+
+* Login
+![image](https://github.com/user-attachments/assets/96501eba-2e05-4b84-ac27-6b8737e577a7)
+
+* User side
+![image](https://github.com/user-attachments/assets/8927cee5-50f8-43ed-938c-17b057957107)
+![image](https://github.com/user-attachments/assets/17e0ec38-93ed-4b86-ae23-1e6def2f390b)
+![image](https://github.com/user-attachments/assets/8b10b4ec-2c86-48ed-9416-2a03a943f38f)
+![image](https://github.com/user-attachments/assets/cd2e6af0-902c-493b-8743-9d66cdc79893)
+![image](https://github.com/user-attachments/assets/82239e68-9723-4725-afc1-cb0c60c85b25)
+![image](https://github.com/user-attachments/assets/0a16963c-eea1-4d0f-a496-7c4da6f7cfde)
+
+* Admin side
+![image](https://github.com/user-attachments/assets/787d3c07-8096-4e30-a299-7db9160f0916)
+![image](https://github.com/user-attachments/assets/db8702ec-ca91-423c-b2fd-05d14295b9e6)
+![image](https://github.com/user-attachments/assets/058e80d2-bbc9-49cc-b522-1907dc11b3f7)
+
+---
+
 ## 🔮 Future Scope
 
 * **External Metadata Integration**: Sync with global book databases (e.g., ISBN registries) for automatic metadata enrichment.
